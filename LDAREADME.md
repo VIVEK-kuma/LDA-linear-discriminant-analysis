@@ -32,6 +32,15 @@ Because news is inherently sequential and temporal, I want to know how the topic
 
   b.The news topics in different months are actually quite different in terms of the word distributions. So the threshold has to be set high to construct the links
  
- 
+ TOPIC  AND LIBRARY THAT I HAVE USED IN THIS 
+gensim: LDA
+
+gensim: Distance Metrics
+
+Topic Modeling and Latent Dirichlet Allocation (LDA) in Python
+
+Topic Modeling in Python
+
+Evaluate Topic Models: Latent Dirichlet Allocation (LDA)
 
 
